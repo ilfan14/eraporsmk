@@ -1,0 +1,2 @@
+Tambah data guru, ID:1, User: Admin, Waktu :29-11-17 17:14:44
+Hapus data guru, ID:1, User: Admin, Waktu :05-12-17 13:15:15

@@ -1,0 +1,1 @@
+{"percent":100,"show_percent":0.025}

@@ -1,0 +1,68 @@
+<div id="form">
+<legend><h3>Versi 3.0 <small>Last Update : 14-10-2017 00:32.19</small></h3></legend>
+<ol>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan fitur penilaian PPK (Penguatan Pendidikan Karakter)</li>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan fitur generate excel perencanaan</li>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan fitur import excel perencanaan</li>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan fitur cetak rapor PPK</li>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan fitur migrasi dari versi 2.x.x ke versi 3.0</li>
+<li><b style="color:green">[Perbaikan]</b> All bugs di versi sebelumnya</li>
+</ol>
+<legend><h3>Versi 2.0.7 <small>Last Update : 17-08-2017 00:32.19</small></h3></legend>
+<ol>
+<li><b style="color:green">[Perbaikan]</b> Fitur import nilai excel</li>
+<li><b style="color:green">[Perbaikan]</b> Filter rencana penilaian berdasar akses login guru</li>
+</ol>
+<legend><h3>Versi 2.0.6</h3></legend>
+<ol>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan fitur import nilai excel</li>
+<li><b style="color:green">[Perbaikan]</b> Filter rencana penilaian berdasar akses login guru</li>
+</ol>
+<legend><h3>Versi 2.0.5</h3></legend>
+<ol>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan kolom keterangan jumlah siswa yang telah dinilai di laman Kirim Nilai</li>
+<li><b style="color:green">[Perbaikan]</b> Fitur backup &amp; restore</li>
+<li><b style="color:green">[Perbaikan]</b> Susunan mata pelajaran di cetak rapor</li>
+<li><b style="color:green">[Perbaikan]</b> Simpan kompetensi keahlian di profile sekolah</li>
+<li><b style="color:green">[Perbaikan]</b> Penilaian remedial</li>
+</ol>
+<legend><h3>Versi 2.0.4 <small></h3></legend>
+<ol>
+<li><b style="color:green">[Perbaikan]</b> Login guru tertukar dengan guru lain</li>
+</ol>
+<legend><h3>Versi 2.0.3</h3></legend>
+<ol>
+<li><b style="color:blue">[Pembaruan]</b> Sinkronisasi data 3 (tiga) tahun terakhir</li>
+<li><b style="color:green">[Perbaikan]</b> Referensi mata pelajaran produktif KTSP</li>
+</ol>
+<legend><h3>Versi 2.0.2</h3></legend>
+<ol>
+<li><b style="color:green">[Perbaikan]</b> Simpan pembelajaran</li>
+</ol>
+<legend><h3>Versi 2.0.1</h3></legend>
+<ol>
+<li><b style="color:blue">[Pembaruan]</b> Penambahan referensi mata pelajaran kompetensi</li>
+<li><b style="color:green">[Perbaikan]</b> Perbaikan tambah, edit rombongan belajar</li>
+<li><b style="color:green">[Perbaikan]</b> Perbaikan tambah, edit siswa</li>
+</ol>
+<legend><h3>Versi 2.0</h3></legend>
+<ol>
+<li><b style="color:blue">[Pembaruan]</b> Sinkronisasi dengan dapodik.</li>
+<li><b style="color:blue">[Pembaruan]</b> Nama ketua ekstrakurikuler mengambil dari database siswa </li>
+<li><b style="color:blue">[Pembaruan]</b> penambahan fitur remedial </li>
+<li><b style="color:blue">[Pembaruan]</b> penambahan fitur updater via aplikasi</li>
+<li><b style="color:blue">[Pembaruan]</b> Sinkronisasi dengan dapodik.</li>
+<li><b style="color:green">[Perbaikan]</b> Perbaikan semua temuan bugs</li>
+<li><b style="color:green">[Perbaikan]</b> Proses instalasi tidak sekali proses insert sql </li>
+<li><b style="color:green">[Perbaikan]</b> Import guru </li>
+<li><b style="color:green">[Perbaikan]</b> Import siswa</li>
+<li><b style="color:green">[Perbaikan]</b> Import rombongan belajar </li>
+<li><b style="color:green">[Perbaikan]</b> Referensi Teknik Penilaian </li>
+<li><b style="color:green">[Perbaikan]</b> Referensi Sikap </li>
+<li><b style="color:green">[Perbaikan]</b> Navigasi anggota rombel </li>
+<li><b style="color:green">[Perbaikan]</b> validasi input nilai di atas 100 </li>
+<li><b style="color:green">[Perbaikan]</b> bobot aktifitas penilaian keterampilan </li>
+<li><b style="color:green">[Perbaikan]</b> nilai akhir raport dalam ratusan (jika masih dalam ratusan, lakukan update nilai terlebih dahulu di menu entry nilai) </li>
+<li><b style="color:green">[Perbaikan]</b> hasil download legger keterampilan dalam ratusan (jika masih dalam ratusan, lakukan update nilai dulu di menu entry nilai keterampilan) </li>
+</ol>
+</div>

@@ -1,0 +1,8 @@
+<li>Q: Bagaimana cara melakukan update eRaporSMK dari versi sebelumnya?</li>
+<li>A: Download <strong>Updater</strong> melalui link atas, extract kemudian copy hasil extract ke root / direktori dimana eraporSMK di install</li>
+<li>Q: Bagaimana cara untuk memunculkan menu sinkronisasi?</li>
+<li>A: Masuk ke menu <strong>Konfigurasi &raquo; Konfigurasi Umum &raquo; Tampilkan Menu Sinkronisasi &raquo; Pilih YA</strong></li>
+<li>Q: Bagaimana untuk sinkronisasi data di semester sebelumnya?</li>
+<li>A: Pilih periode aktif di menu <strong>Konfigurasi &raquo; Konfigurasi Umum &raquo; Periode Aktif</strong></li>
+<li>Q: Bagaimana cara kirim nilai eRaporSMK ke Dapodik?</li>
+<li>A: Masuk ke menu <strong>Nilai Rapor Dapodik</strong>, klik tombol <strong>Detil Nilai</strong> di Rombongan Belajar yang akan dikirim nilainya kemudian klik tombol <strong>Proses Kirim</strong> pada Mata Pelajaran yang akan dikirim nilainya.</li>

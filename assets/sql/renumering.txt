@@ -1,0 +1,2 @@
+SET @i=0;
+UPDATE table_name SET column_name=(@i:=@i+1);

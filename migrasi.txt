@@ -1,0 +1,8 @@
+1. mapel_id = deskripsi_mata_pelajaran (ganti ke id ref_mata_pelajaran)
+DONE! 2. kurikulum_id = jurusan_sp (ganti ke jurusan)
+3. migrasi rencana_penilaians ke rencana_penilaian group by nama_penilaian
+4. migrasi rencana_penilaians ke kd_nilai
+5. mapel_id = nilai (ganti ke id ref_mata_pelajaran)
+6. migrasi nilai setelah rencana_penilaian selesai
+7. mapel id table remedial
+8. jurusan_sp_id di table rombongan_belajar
